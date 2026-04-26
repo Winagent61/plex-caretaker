@@ -1,0 +1,26 @@
+# Local machine configuration
+.env
+.env.*
+!.env.example
+
+# Runtime outputs
+*.log
+logs/*
+!logs/.gitkeep
+state/*
+!state/.gitkeep
+
+# Common secret-bearing files
+*.key
+*.pem
+*.p12
+*.pfx
+*.cer
+*.crt
+*.token
+secrets/*
+!secrets/.gitkeep
+
+# PowerShell noise
+*.tmp
+*.bak
