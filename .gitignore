@@ -7,8 +7,10 @@
 *.log
 logs/*
 !logs/.gitkeep
+!logs/README.md
 state/*
 !state/.gitkeep
+!state/README.md
 
 # Common secret-bearing files
 *.key
