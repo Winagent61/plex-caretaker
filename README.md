@@ -2,6 +2,8 @@
 
 A small Windows-first watchdog for a Plex server whose media lives on a NAS.
 
+> This is the MVP version of Plex Caretaker.
+
 The goal of v1 is intentionally narrow:
 
 1. Check whether the NAS media path is reachable.
