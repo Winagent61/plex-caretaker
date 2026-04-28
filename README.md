@@ -282,3 +282,5 @@ git pull
 ```
 
 That gives you a simple update path with version control and rollback, without depending on another machine to fix Plex.
+
+> Comment: This is an upgraded amount of text added to the README file by Darren.
